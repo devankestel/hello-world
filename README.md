@@ -1,2 +1,4 @@
 # hello-world
-The finest repository around!
+=============
+
+This is Devan, and I'm getting ready to start a new journey learning Ruby on Rails! 
